@@ -1,0 +1,21 @@
+.NHD1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.NHD2{
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav1{
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav11{
+    text-decoration: none;
+    color: white;
+}
