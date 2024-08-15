@@ -1,0 +1,11 @@
+.HPDIV{
+    width: 100%;
+    height: 88vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.HPP{
+    margin: 10px;
+}
